@@ -9,7 +9,12 @@ The UX was made to make following the design easy and simple to understand by ke
 
 #### To test the site as a superuser, you can use the following credentials to login:
 * Username: Admin101
-* Password: admin101 
+* Password: admin101
+  
+### To deploy the live website on GitHub Pages, I applied followed the following steps:
+* This project was developed using Gitpod as the chosen IDE and GitHub as a remote repository.
+* The deployed project can be viewed on the following link: http://perfect-week-mls3.herokuapp.com/index
+* Github repository link to this project: https://github.com/Abdikafi-Adan/perfect_week_MLS3
 
 ## User Story
 User Questions that the perfect week would answers:
@@ -82,10 +87,6 @@ I used the jQuery library to help write the JavaScript code used in this project
 ## Deployment
  * The project was created by using the services of GitHub and the GitPod IDE. The project was edited in Gitpod and pushed and committed to Github repository.
 
-### To deploy the live website on GitHub Pages, I applied followed the following steps:
-* This project was developed using Gitpod as the chosen IDE and GitHub as a remote repository.
-* The deployed project can be viewed on the following link: http://perfect-week-mls3.herokuapp.com/index
-* Github repository link to this project: https://github.com/Abdikafi-Adan/perfect_week_MLS3
 
 ## Credits
 ## Acknowledgements
